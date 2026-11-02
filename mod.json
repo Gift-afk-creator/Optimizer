@@ -1,0 +1,33 @@
+{
+  "geode": "4.0.0",
+  "gd": {
+    "win": "2.2081",
+    "android": "2.2081",
+    "mac": "2.2081"
+  },
+  "id": "tuusuario.lite-optimizer",
+  "name": "Lite Optimizer",
+  "version": "v1.0.0",
+  "developer": "TuUsuario",
+  "description": "Reduce efectos pesados para mejorar el rendimiento.",
+  "settings": {
+    "no-particles": {
+      "type": "bool",
+      "name": "Desactivar partículas",
+      "description": "No dibuja partículas durante el nivel.",
+      "default": true
+    },
+    "no-shake": {
+      "type": "bool",
+      "name": "Desactivar temblor de cámara",
+      "description": "Ignora los triggers de shake.",
+      "default": true
+    },
+    "no-death-effects": {
+      "type": "bool",
+      "name": "Muerte simplificada",
+      "description": "Omite la animación de explosión al morir.",
+      "default": false
+    }
+  }
+}
