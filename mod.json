@@ -1,12 +1,12 @@
 {
-  "geode": "4.0.0",
+  "geode": "5.11.2",
   "gd": {
     "win": "2.2081",
     "android": "2.2081",
     "mac": "2.2081"
   },
-  "id": "tuusuario.lite-optimizer",
-  "name": "Lite Optimizer",
+  "id": "tuusuario.optimizer",
+  "name": "Optimizer",
   "version": "v1.0.0",
   "developer": "TuUsuario",
   "description": "Reduce efectos pesados para mejorar el rendimiento.",
